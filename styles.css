@@ -28,7 +28,6 @@ nav a:hover {
 }
 .logo {
   margin-top: 1em;
-  max-width: 400px;
   filter: drop-shadow(0px 5px 5px #0A0B10);
   border-radius: 100%;
 }
@@ -67,21 +66,16 @@ section > p > a {
   padding: 1em;
   padding-bottom: 3em;
   box-shadow: 0px 2.5px 5px black;
-  max-width: 60%;
 }
 .container {
   background-image: linear-gradient(to bottom, #1C1E2C 10%, #0A0B10 90%);
   background-color: #1C1E2C;
   padding-top: 0.25em;
   padding-bottom: 0.25em;
-  margin-left: 3em;
-  margin-right: 3em;
   border-radius: 1em;
 }
 .dotted-line {
   margin-bottom: 1em;
-  margin-left: 3.5em;
-  margin-right: 3.5em;
   border-bottom: 5px dotted #EFF0F5;
 }
 .current-page {
