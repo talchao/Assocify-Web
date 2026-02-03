@@ -107,8 +107,14 @@ code {
       border-radius: 5px;
 } 
 
+/* Medium Display */
+@media (min-width: 1000px) {
+    .wrapper { max-width: 50%; }
+}
+
+
   /* Large Display */
-@media (min-width: 1018px) {
+@media (min-width: 1500px) {
   h1 { font-size: 48px; }
   .wrapper { max-width: 40%; }
   .logo { max-width: 400px; }
