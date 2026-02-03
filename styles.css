@@ -110,7 +110,7 @@ code {
   /* Large Display */
 @media (min-width: 1018px) {
   h1 { font-size: 48px; }
-  .wrapper { max-width: 60%; }
+  .wrapper { max-width: 40%; }
   .logo { max-width: 400px; }
   .container {
     margin-left: 3em;
