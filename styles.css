@@ -106,6 +106,7 @@ code {
       font-weight: bold;
       border-radius: 5px;
 } 
+.test {}
 
 /* Medium Display */
 @media (min-width: 1000px) {
